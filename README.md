@@ -6,6 +6,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `check out the link`
+click to see magic: (https://main--wordwanderer.netlify.app/).
+
 ### `npm start`
 
 Runs the app in the development mode.\
