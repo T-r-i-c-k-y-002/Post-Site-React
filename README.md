@@ -7,7 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 ### `check out the link`
-click to see magic: ([https://main--wordwanderer.netlify.app/](https://wordwanderer.netlify.app/)).
+click to see magic: (https://wordwanderer.netlify.app/).
 
 ### `npm start`
 
