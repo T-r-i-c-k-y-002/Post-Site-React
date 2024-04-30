@@ -8,7 +8,8 @@ step 2: run the project in another terminal,
 Runs the app in the development mode.
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-# this site fetches the data using the api called 'axios', makes the CRUD operations using it and changes can be reflected in the db.\
+# About:
+This site fetches data using the 'axios' API, performs CRUD operations with it, and reflects changes in the database.
 
 # ScreenShots:
 ![image](https://github.com/T-r-i-c-k-y-002/Post-Site-React/assets/154720430/42b2a49f-6feb-434a-b414-f20fca25f80b)
