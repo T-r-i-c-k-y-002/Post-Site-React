@@ -1,73 +1,28 @@
-# Getting Started with Create React App
+......................................................................................................................................................................................................................
+# To run the site:
+step 1: run the server by the following command,
+ - npx json-server -p 3500 -w data/db.json
+step 2: run the project in another terminal,
+ - npm start
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `check out the link`
-click to see magic: (https://wordwanderer.netlify.app/).
-
-### `npm start`
-
-Runs the app in the development mode.\
+Runs the app in the development mode.
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+# this site fetches the data using the api called 'axios', makes the CRUD operations using it and changes can be reflected in the db.\
 
-### `npm test`
+# ScreenShots:
+![image](https://github.com/T-r-i-c-k-y-002/Post-Site-React/assets/154720430/42b2a49f-6feb-434a-b414-f20fca25f80b)
+![image](https://github.com/T-r-i-c-k-y-002/Post-Site-React/assets/154720430/584e19c7-365a-40f6-a2a0-802e32b9047b)
+![image](https://github.com/T-r-i-c-k-y-002/Post-Site-React/assets/154720430/0a49330a-ff87-464e-98f7-b0781d26c488)
+![image](https://github.com/T-r-i-c-k-y-002/Post-Site-React/assets/154720430/1e29b1ab-3ef5-4e16-a2ad-7c162ee717a7)
+![image](https://github.com/T-r-i-c-k-y-002/Post-Site-React/assets/154720430/efc57b55-8b67-4dee-91ab-a8669c4a0369)
+![image](https://github.com/T-r-i-c-k-y-002/Post-Site-React/assets/154720430/1973f58a-c20e-44a0-bb56-684b8637cd7d)
+![image](https://github.com/T-r-i-c-k-y-002/Post-Site-React/assets/154720430/e452d21e-1f23-47e7-b39d-3d423148efba)
+![image](https://github.com/T-r-i-c-k-y-002/Post-Site-React/assets/154720430/2a090401-bc9f-4130-8353-1c6e334d34d4)
+![image](https://github.com/T-r-i-c-k-y-002/Post-Site-React/assets/154720430/640ac023-e0d6-47e3-9314-d45900004b8f)
+![image](https://github.com/T-r-i-c-k-y-002/Post-Site-React/assets/154720430/7189de1d-fdde-496b-80ee-feaa7361c3ee)
+![image](https://github.com/T-r-i-c-k-y-002/Post-Site-React/assets/154720430/b5210850-bf9e-466f-8451-24803eba1614)
+![image](https://github.com/T-r-i-c-k-y-002/Post-Site-React/assets/154720430/34ef8952-667f-4419-bbb1-3a699598fdcd)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Happy Coding !!!
+......................................................................................................................................................................................................................
