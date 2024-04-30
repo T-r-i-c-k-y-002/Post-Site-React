@@ -1,7 +1,9 @@
 ......................................................................................................................................................................................................................
 # To run the site:
+
 step 1: run the server by the following command,
  - npx json-server -p 3500 -w data/db.json
+
 step 2: run the project in another terminal,
  - npm start
 
